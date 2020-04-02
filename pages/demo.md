@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title: "Demo"
 meta_title: "Demo test page"
 subheadline: "Wufoo-powered contact forms"
