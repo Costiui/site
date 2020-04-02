@@ -2,8 +2,6 @@
 layout: page
 title: "Test"
 meta_title: "Test page"
-subheadline: "Wufoo-powered contact forms2"
-teaser: "Get in touch with me? Use the contact form2."
 permalink: "/test/"
 image_sliders:
   - slider1
