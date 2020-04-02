@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title: "Test"
 meta_title: "Test page"
 permalink: "/test/"
