@@ -48,12 +48,12 @@
 #   class: icon-xing
 #   title: Xing Profil
 
-name: Vimeo
+- name: Vimeo
 url: https://vimeo.com/costiui
 class: icon-vimeo
 title: "Vimeo Costiui"
 
-name: Tumblr
+- name: Tumblr
 url: https://costiui.tumblr.com
 class: icon-tumblr
 title: "Tumblr Costiui"
