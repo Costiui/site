@@ -1,59 +1,54 @@
+- name: Twitter
+  url: http://twitter.com/costiui
+  class: icon-twitter
+  title: "Costiui"
+
+- name: Facebook
+  url: http://www.facebook.com/CostiuiNet
+  class: icon-facebook
+  title: "Red Social"
+
+#- name: Linkedin
+#  url: http://www.linkedin.com/in/dramor
+#  class: icon-linkedin
+#  title: "Red Social Profesional"
+
+#- name: Soundcloud
+#  url: http://soundcloud.com/phlow
+#  class: icon-soundcloud
+#  title: "Sounds und Downloads und mehr"
+
 - name: GitHub
   url: http://github.com/costiui
   class: icon-github
-  title: "GitHub Costiui.Net Project"
+  title: "GitHub Project"
+
+#- name: Instagram
+#  url: http://instagram.com/costiui.ronaszek
+#  class: icon-instagram
+#  title: "Fotos desde el movil"
+
+- name: Flickr
+  url: https://www.flickr.com/photos/costiui/
+  class: icon-camera
+  title: "Foto Costiui"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCvZo-Y043ipjefFW9ONGJ8A
   class: icon-youtube
-  title: "Video Costiui.Net"
+  title: "Videos"
 
-- name: Twitter
-  url: http://twitter.com/costiui
-  class: icon-twitter
-  title: "Twitter Costiui.Net"
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
 
-# - name: Mixcloud
+#- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
 #  class: icon-cloud
 #  title: "Mixe, was sonst?"
 
-# - name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
-
- name: Facebook
- url: http://www.facebook.com/costiuinet
- class: icon-facebook
- title: "Costiui.Net FaceBook"
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
 # - name: Xing
-#   url: https://www.xing.com/profile/
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
 #   class: icon-xing
 #   title: Xing Profil
-
-- name: Vimeo
-url: https://vimeo.com/costiui
-class: icon-vimeo
-title: "Vimeo Costiui"
-
-- name: Tumblr
-url: https://costiui.tumblr.com
-class: icon-tumblr
-title: "Tumblr Costiui"
