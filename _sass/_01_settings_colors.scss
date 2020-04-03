@@ -69,7 +69,7 @@ $grey-14: #242424;
 $grey-15: #171717;
 $grey-16: #0B0B0B;
 $grey-20: #7E7E7E; 
-
+$grey-21: #1F1F1F; 
 
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
@@ -114,7 +114,7 @@ $footer-color: #fff;
 $footer-link-color: $ci-6;
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: $grey-21; /* $grey-13; */
 $subfooter-color: $grey-20; /* $grey-8; */
 $subfooter-link-color: $grey-20; /* $grey-8; */
 
