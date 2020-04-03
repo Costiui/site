@@ -18,10 +18,10 @@
 #  class: icon-soundcloud
 #  title: "Sounds und Downloads und mehr"
 
-- name: GitHub
-  url: http://github.com/costiui
-  class: icon-github
-  title: "GitHub Project"
+- name: Vimeo
+  url: http://vimeo.com/costiui
+  class: icon-vimeo
+  title: "Vimeo"
 
 #- name: Instagram
 #  url: http://instagram.com/costiui.ronaszek
@@ -31,13 +31,18 @@
 - name: Flickr
   url: https://www.flickr.com/photos/costiui/
   class: icon-camera
-  title: "Foto Costiui"
+  title: "Flickr Costiui"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCvZo-Y043ipjefFW9ONGJ8A
   class: icon-youtube
   title: "Videos"
-
+  
+- name: Tumblr
+  url: https://costiui.tumblr.com/
+  class: icon-tumblr
+  title: "Tumblr"
+  
 #- name: Pinterest
 #  url: http://www.pinterest.com/phlowmedia/
 #  class: icon-pinterest
