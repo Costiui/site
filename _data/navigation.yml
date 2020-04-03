@@ -65,7 +65,11 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
+    
+- title: Demo
+  url: "/demo/"
+  side: left
+  
 - title: "Search"
   url: "/search/"
   side: right
