@@ -75,5 +75,6 @@
   side: right
 
 - title: "Contact"
+  icon: mail
   url: "/contact/"
   side: right
