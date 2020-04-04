@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 sidebar: right
 meta_title: "Test page"
 permalink: "/test/"
@@ -7,11 +7,6 @@ image_sliders:
   - slider1
   - slider2
   - slider3
-
-
-
-
-
 header:
   image_fullwidth: costiui2020.jpg
 widget1:
