@@ -2,7 +2,19 @@
 layout: default
 format: index
 ---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
 
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
 {% include slider.html selector="slider1" %}
 <div class="row t60">
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
