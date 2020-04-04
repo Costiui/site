@@ -1,7 +1,7 @@
 ---
-permalink: /search/
+permalink: /cauta/
 layout: page
-title: "Search"
+title: "Cauta"
 sitemap: false
 ---
 
