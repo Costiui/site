@@ -361,3 +361,15 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+body {
+	margin: 0;
+	color: $font-color;
+	font-family: $font-style;
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+	background: #91C9FF url(https://showchat.tk/assets/img/style-showchat.png) repeat;
+	/* color:#31292d; */
+	margin-bottom:20px;
+}
