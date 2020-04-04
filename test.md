@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 sidebar: right
 meta_title: "Test page"
 permalink: "/test/"
