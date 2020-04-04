@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 sidebar: right
 meta_title: "Test page"
 permalink: "/test/"
@@ -9,6 +9,7 @@ image_sliders:
   - slider3
 header:
   image_fullwidth: costiui2020.jpg
+  {% include slider.html selector="slider1" %}
 widget1:
   title: "Blog & Portfolio"
   url: 'https://phlow.github.io/feeling-responsive/blog/'
